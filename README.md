@@ -2,7 +2,6 @@
 
 For years, everybody list files on unix based on LC_COLLATE.
 Then Gnome developpers decide to interpret number in filename...
-Why ??!!
 
 Strange choice, and we cannot personalize this.
 
