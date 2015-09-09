@@ -99,7 +99,7 @@ launch it from lib directory to test it:
 	LD_PRELOAD=./glibSortFileNameHack.so nautilus .
 
 
-
+Related bug : https://bugzilla.gnome.org/show_bug.cgi?id=754777
 
 Enjoy ! 
 
