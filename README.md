@@ -15,7 +15,12 @@ and for example, nautilus show:
 	1 001  004  A  B  a  b
 
 
-This behavior use command g_utf8_collate_key_for_filename from Glib library.
+This behavior use command g_utf8_collate_key_for_filename from Glib library. 
+Thank you to 
+* https://bugs.launchpad.net/ubuntu/+source/nautilus/+bug/322271
+* https://bugzilla.gnome.org/show_bug.cgi?id=355152
+* https://bugs.launchpad.net/ubuntu/+source/thunar/+bug/684317
+* + 30  related bugs opened
 
 This little override this function with g_utf8_collate_key.
 
