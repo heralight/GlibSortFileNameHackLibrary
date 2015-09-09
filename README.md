@@ -8,13 +8,13 @@ Strange choice, and we cannot personalize this.
 
 ls show something like
 
-``` 001  004  1  A  B  a  b
-```
+	001  004  1  A  B  a  b
+
 
 and for example, nautilus show:
 
-``` 1 001  004  A  B  a  b
-```
+	1 001  004  A  B  a  b
+
 
 This behavior use command g_utf8_collate_key_for_filename from Glib library.
 
